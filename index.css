@@ -1,0 +1,46 @@
+/* ========= Responsive CSS ========= */
+
+@media (max-width:992px){
+
+.header .container{
+    flex-direction:column;
+}
+
+.hero h2{
+    font-size:36px;
+}
+
+}
+
+@media (max-width:768px){
+
+nav{
+    flex-direction:column;
+    margin-top:20px;
+}
+
+.hero{
+    padding:70px 20px;
+}
+
+.hero h2{
+    font-size:30px;
+}
+
+}
+
+@media (max-width:480px){
+
+.hero h2{
+    font-size:24px;
+}
+
+.hero p{
+    font-size:15px;
+}
+
+button{
+    width:100%;
+}
+
+}

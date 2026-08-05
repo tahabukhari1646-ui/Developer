@@ -1,0 +1,47 @@
+Portfolio Website
+
+Files Overview
+
+1. index.html
+----------------
+Main HTML page of the website.
+
+2. style.css
+----------------
+Contains global styling:
+- Header
+- Footer
+- Hero Section
+- Buttons
+- Typography
+- Layout
+
+3. index.css
+----------------
+Contains responsive media queries.
+
+4. Future Files
+----------------
+about.html
+projects.html
+contact.html
+
+assets/
+    images/
+    icons/
+    css/
+    js/
+
+Purpose
+----------------
+This project is a professional portfolio website for showcasing:
+- About Me
+- Skills
+- Services
+- Projects
+- Experience
+- Contact Information
+
+Author
+----------------
+Syed Taha Ali
